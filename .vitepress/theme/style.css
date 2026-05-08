@@ -1,0 +1,6 @@
+/* 隐藏默认 hero，让首页完全由 PostList 控制 */
+.VPHome .VPHomeHero { display: none; }
+.VPHome .VPHomeFeatures { display: none; }
+
+/* 调整首页内容区宽度 */
+.VPHome .vp-doc { max-width: 720px; margin: 0 auto; }
